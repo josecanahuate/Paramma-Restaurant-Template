@@ -1,0 +1,625 @@
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+    .caviar-single-dish {
+        padding: 25px 25px 15px;
+    }
+
+    .caviar-single-dish:after {
+        width: calc(100% - 55px);
+    }
+
+    .testimonials-content {
+        padding: 50px;
+    }
+
+    .section-heading {
+        margin-bottom: 40px;
+    }
+
+    .reservation-form,
+    .contact-form {
+        width: 400px;
+        margin-right: 30px;
+        padding-left: 15px;
+    }
+
+    .reservation-form textarea.form-control,
+    .contact-form textarea.form-control {
+        height: 90px;
+    }
+
+    .caviar-footer-area .navbar-brand {
+        margin-bottom: 20px;
+    }
+
+    .dish-description {
+        margin: 0 50px;
+    }
+
+    .caviar-about-us-area {
+        margin-top: 100px !important;
+    }
+
+    .chefs_spaceup{
+        margin-top: 100px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .caviar-single-dish {
+        padding: 25px 25px 15px;
+    }
+
+    .caviar-single-dish:after {
+        width: calc(100% - 55px);
+    }
+
+    .testimonials-content {
+        padding: 50px;
+    }
+
+    .section-heading {
+        margin-bottom: 40px;
+    }
+
+    .reservation-form,
+    .contact-form {
+        width: 400px;
+        margin-right: 30px;
+        padding-left: 15px;
+    }
+
+    .reservation-form textarea.form-control,
+    .contact-form textarea.form-control {
+        height: 90px;
+    }
+
+    .caviar-footer-area .navbar-brand {
+        margin-bottom: 20px;
+    }
+
+    .dish-description {
+        margin: 0 50px;
+    }
+
+
+    .about-us-second-part:after {
+        top: 10px;
+        font-size: 100px;
+    }
+
+    .about-us-second-part:before {
+        left: 0;
+    }
+
+    .specials-part:after {
+        top: -30px;
+        font-size: 80px;
+        right: 100px;
+    }
+
+    .specials-part:before {
+        left: 0;
+    }
+
+    .team-part:after {
+        top: 25px;
+        font-size: 80px;
+        right: 260px;
+    }
+
+    .team-part:before {
+        left: 0;
+    }
+
+
+    .testimonials-part:after {
+        top: -20px;
+        font-size: 80px;
+    }
+
+    .testimonials-part:before {
+        left: 50px;
+    }
+
+    .blog-part:after {
+        top: -20px;
+        font-size: 80px;
+        right: 250px;
+    }
+
+    .blog-part:before {
+        left: 20px;
+    }
+
+    .caviar-about-us-area{
+        margin-top: 100px;
+    }
+
+    .section_gap {
+        padding: 200px 0;
+    }
+
+    .specials .details h3 {
+        font-size: 26px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        color: #433f39;
+        text-align: center;
+    }
+
+    .specials .details p {
+        color: #777777;
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .chefs_spaceup {
+        margin-top: 80px;
+    }
+
+    .ftco-section-blog{
+        margin: 40px 0; /*40PX MARGIN SUPERIOR, 0px MARGIN BOTTOM */
+    }
+
+    .header-right {
+        padding-left: 5%;
+      }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-toggler {
+        border: 2px solid #fff;
+        color: #fff;
+        margin: 26px 0;
+    }
+
+    .sticky .navbar-toggler {
+        margin: 11px 0;
+    }
+
+    #caviarNav {
+        padding: 30px;
+        background-color: rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 9px 10px rgba(255, 255, 255, 0.15);
+        border-radius: 0 0 3px 3px;
+    }
+
+    .single-hero-slides {
+        height: 600px;
+    }
+
+    .hero-content h2 {
+        font-size: 42px;
+    }
+
+    .single-hero-slides:after {
+        width: 50%;
+    }
+
+    .hero-slides-nav {
+        width: 300px;
+        height: 170px;
+    }
+
+    .caviar-hero-area .owl-next {
+        bottom: 148px;
+        right: 278px;
+    }
+
+    .section-heading {
+        margin-bottom: 30px;
+    }
+
+    .about-us-second-part:after {
+        top: -40px;
+        font-size: 80px;
+    }
+
+    .about-us-second-part:before {
+        left: 50px;
+    }
+
+    .specials-part:after {
+        top: -40px;
+        font-size: 100px;
+        right: 20px;
+    }
+
+    .specials-part:before {
+        left: 0;
+    }
+
+    .testimonials-part:after {
+        top: -20px;
+        font-size: 100px;
+    }
+
+    .testimonials-part:before {
+        left: 50px;
+    }
+
+    .blog-part:after {
+        top: -40px;
+        font-size: 100px;
+        right: 180px;
+    }
+
+    .blog-part:before {
+        left: 20px;
+    }
+
+    .team-part:after {
+        top: 10px;
+        font-size: 100px;
+        right: 150px;
+    }
+
+    .team-part:before {
+        left: 20px;
+    }
+
+    .caviar-single-dish {
+        padding: 15px;
+    }
+
+    .caviar-single-dish:after {
+        width: calc(100% - 45px);
+    }
+
+    .dish-info .dish-name {
+        font-size: 14px;
+    }
+
+    .caviar-dish-menu:before {
+        font-size: 100px;
+        right: -20%;
+        top: 30%;
+    }
+
+    .testimonials-content {
+        padding: 30px;
+    }
+
+    .reservation-form,
+    .contact-form {
+        width: 300px;
+        margin-right: 30px;
+        padding: 50px 0;
+    }
+
+    .breadcumb-area:before,
+    .reservation-side-thumb,
+    .reservation-form-area,
+    .contact-form-area {
+        width: 50%;
+    }
+
+    .caviar-about-us-area {
+        padding: 100px 0;
+    }
+
+    .caviar-testimonials-area,
+    .caviar-dish-menu,
+    .caviar-awards-area {
+        padding-bottom: 100px;
+    }
+
+    .dish-description {
+        margin: 0 30px;
+    }
+
+    .dish-description h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .caviar-map-area {
+        width: 50%;
+    }
+
+    .header-right{
+        display: none;
+    }
+    .caviar-about-us-area {
+        margin-top: 50px;
+    }
+    .section_gap {
+        padding: 50px 0;
+    }
+
+    .specials .details h3 {
+        font-size: 26px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        color: #433f39;
+        text-align: center;
+    }
+
+    .specials .details p {
+        color: #777777;
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+
+    .chefs_spaceup {
+        margin-top: 60px;
+    }
+
+    .newsletter {
+        display: none;
+    }
+
+    .specials img {
+        animation: imgRotate 50s linear infinite;
+        width: 70%;
+    }
+}
+
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .navbar-toggler {
+        border: 2px solid #fff;
+        color: #fff;
+        margin: 26px 0;
+    }
+
+    .sticky .navbar-toggler {
+        margin: 11px 0;
+    }
+
+    #caviarNav {
+        padding: 15px;
+        background-color: rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 9px 10px rgba(255, 255, 255, 0.15);
+        border-radius: 0 0 3px 3px;
+    }
+
+    .single-hero-slides {
+        height: 600px;
+    }
+
+    .hero-content h2 {
+        font-size: 36px;
+    }
+
+    .single-hero-slides:after {
+        width: 60%;
+    }
+
+    .hero-slides-nav {
+        width: 200px;
+        height: 100px;
+    }
+
+    .caviar-hero-area .owl-next {
+        bottom: 78px;
+        right: 178px;
+    }
+
+    .welcome-social-info {
+        right: 15px;
+    }
+
+    .hero-content p {
+        margin-bottom: 30px;
+    }
+
+    .caviar-about-us-area {
+        padding: 70px 0;
+    }
+
+    .caviar-testimonials-area,
+    .caviar-dish-menu,
+    .caviar-awards-area {
+        padding-bottom: 100px;
+    }
+
+    .about-us-thumbnail {
+        margin: 30px 0;
+    }
+
+    .about-us-second-part:after {
+        top: -30px;
+        font-size: 60px;
+        left: 60px;
+    }
+
+    .about-us-second-part:before {
+        left: 0;
+    }
+
+    .specials-part:after {
+        top: -30px;
+        font-size: 60px;
+        left: 72px;
+    }
+
+    .specials-part:before {
+        top: 20px;
+        left: 200px;
+    }
+
+    .testimonials-part:after {
+        top: -20px;
+        font-size: 50px;
+        left: 40px;
+    }
+
+    .testimonials-part:before {
+        left: 0;
+    }
+
+    .blog-part:after {
+        top: -25px;
+        font-size: 60px;
+        left: 130px;
+    }
+
+    .blog-part:before {
+        left: 0;
+    }
+
+    .team-part:after {
+        top: 20px;
+        font-size: 60px;
+        left: 100px;
+    }
+
+    .team-part:before {
+        left: 0;
+    }
+
+
+    .section-heading {
+        text-align: left !important;
+    }
+
+    .section-heading h2 {
+        font-size: 30px;
+    }
+
+    .caviar-single-dish {
+        padding: 20px;
+        margin-bottom: 50px;
+    }
+
+    .caviar-dish-menu .row .col-12:first-child .caviar-single-dish:before {
+        top: -15px;
+        left: -15px;
+    }
+
+    .caviar-single-dish:after {
+        width: calc(100% - 45px);
+    }
+
+    .caviar-awards>img {
+        margin: 15px 30px;
+    }
+
+    .caviar-awards-area .section-heading {
+        margin-bottom: 30px
+    }
+
+    .testimonials-content {
+        padding: 15px;
+    }
+
+    .reservation-side-thumb,
+    .reservation-form-area,
+    .contact-form-area {
+        width: 100%;
+    }
+
+    .reservation-form,
+    .contact-form {
+        width: 100%;;
+        margin-right: 0;
+        padding: 50px 15px;
+    }
+
+    .caviar-dish-menu:before {
+        right: -50%;
+    }
+
+    .breadcumb-area:before {
+        width: 70%;
+    }
+
+    .portfolio-menu button {
+        font-size: 12px;
+        letter-spacing: 1px;
+        margin: 0 5px;
+    }
+
+    .food-menu-title>h2 {
+        font-size: 80px;
+        top: 200px;
+    }
+
+    .dish-description h3 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .dish-description {
+        margin: 30px 0;
+    }
+
+    .caviar-map-area {
+        width: 100%;
+    }
+
+    .header-right{
+        display: none;
+    }
+
+    .caviar-about-us-area{
+        margin-top: 40px;
+    }
+
+    .section_tittle, span{
+        text-align: center;
+    }
+
+    .section_gap {
+        padding: 50px 0;
+      }
+
+    .specials .details h3 {
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #433f39;
+    text-align: center;
+    }
+
+    .specials .details p {
+    color: #777777;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+    /* Desactivar animaciones */
+    .wow {
+        visibility: visible;
+        animation: none !important;
+      }
+
+    .chefs_spaceup{
+        margin-top: 40px;
+    }
+
+    .section_padding {
+        padding: 50px 0;
+    }
+
+    .testimonials .info p {
+        margin: 0 10px;
+        text-align: justify;
+      }
+
+    .ftco-footer-widget p{
+        margin: 0 10px;
+    }
+
+    .request-back-area .request-content h3, p {
+        text-align: center;
+    }
+
+    .newsletter{
+        display: none;
+    }
+
+    .specials img {
+        animation: imgRotate 50s linear infinite;
+        width: 80%;
+    }
+}
